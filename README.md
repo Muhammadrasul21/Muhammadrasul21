@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Typescripy, Vue Js**
 
-- 🛋️ Furniture [Furniture](https://furniture-project-beta.vercel.app/)
+- 🛋️ My last project: [Furniture](https://furniture-project-beta.vercel.app/)
 
 - 🗒 I`m created a new to do list [To do list](https://github.com/Muhammadrasul21/toDo-list)
   
