@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadrasul21" alt="muhammadrasul21" /></a> </p>
 
-- 🔭 I’m currently working on [ABC-auto](https://abc-auto-eight.vercel.app/)
-
 - 🌱 I’m currently learning **React, Typescripy, Vue Js**
+  
+- 🔭 I’m currently working on [ABC-auto](https://abc-auto-eight.vercel.app/)
 
 - 🛋️ My last project: [Furniture](https://furniture-project-beta.vercel.app/)
 
