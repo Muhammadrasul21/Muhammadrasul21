@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Furniture](https://github.com/Muhammadrasul21/exam)
+- 🔭 I’m currently working on [Target Consulting](https://target.qisqa.link)
 
-- 🛋️ My last project [BileTick](https://github.com/Muhammadrasul21/BileTick)
+- 🛋️ My last project [Yoshlar Ventures](https://yoshlarventures.uz/uz)
 
-- 👨‍💻 All of my projects are available at [hello](https://gulomovdev.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gulomovdev.vercel.app/)
 
 - 📝 I regularly write articles on [https://t.me/gulomjonovs_1](https://t.me/gulomjonovs_1)
 
-- 💬 Ask me about **react, typescript,**
+- 💬 Ask me about **react, astro, typescript, next**
 
 - 📫 How to reach me **mgulomjonov151@gmail.com**
 
