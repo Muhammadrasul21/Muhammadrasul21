@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mgulomjonov151@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGT757dl-w/zZWE1qE_g6QexlPTn8st1g/edit?utm_content=DAGT757dl-w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGT757dl-w/zZWE1qE_g6QexlPTn8st1g/edit?utm_content=DAGT757dl-w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [CV](https://www.canva.com/design/DAGT757dl-w/zZWE1qE_g6QexlPTn8st1g/edit?utm_content=DAGT757dl-w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
