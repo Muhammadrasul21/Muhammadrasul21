@@ -11,7 +11,7 @@
 
 - 🛋️ My last project [BileTick](https://github.com/Muhammadrasul21/BileTick)
 
-- 👨‍💻 All of my projects are available at [https://gulomovdev.vercel.app/](https://gulomovdev.vercel.app/)
+- 👨‍💻 All of my projects are available at [hello](https://gulomovdev.vercel.app/)
 
 - 📝 I regularly write articles on [https://t.me/gulomjonovs_1](https://t.me/gulomjonovs_1)
 
