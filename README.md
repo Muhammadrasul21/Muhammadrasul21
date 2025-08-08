@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://gulomovdev.vercel.app/)
 
-- 📝 I regularly write articles on [https://t.me/gulomjonovs_1](https://t.me/gulomjonovs_1)
+- 📝 I regularly write articles on [Gulomjonov's blog](https://t.me/gulomjonovs_1)
 
 - 💬 Ask me about **react, astro, typescript, next**
 
