@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Target Consulting](https://target.qisqa.link)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://gulomovdev.vercel.app)
 
