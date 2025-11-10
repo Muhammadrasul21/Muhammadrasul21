@@ -18,7 +18,6 @@
 - 📫 How to reach me **mgulomjonov151@gmail.com**
 
 - 📄 Know about my experiences [CV](https://www.canva.com/design/DAGyffgrW8s/hmS6lUBj8W-IfEqPY0PKYA/view?utm_content=DAGyffgrW8s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdbe74a1804)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/gulomoov_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gulomoov_1" height="30" width="40" /></a>
